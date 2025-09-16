@@ -33,7 +33,7 @@
     "eslint-plugin-markdown": "^3.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.11",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "get-port": "^5.1.1",
     "husky": "^7.0.2",
     "import-from": "^3.0.0",
