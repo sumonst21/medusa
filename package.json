@@ -22,7 +22,7 @@
     "@redocly/cli": "latest",
     "@typescript-eslint/eslint-plugin": "^5.36.2",
     "@typescript-eslint/parser": "^5.36.2",
-    "axios": "^0.21.1",
+    "axios": "^0.30.3",
     "axios-mock-adapter": "^1.19.0",
     "babel-jest": "^26.6.3",
     "babel-preset-medusa-package": "^1.0.0",
@@ -52,7 +52,7 @@
     "typedoc-plugin-markdown": "^3.13.4",
     "typedoc-plugin-merge-modules": "^4.0.1",
     "typedoc-plugin-reference-excluder": "^1.0.0",
-    "typeorm": "^0.2.31"
+    "typeorm": "^0.3.26"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": "yarn run lint",
