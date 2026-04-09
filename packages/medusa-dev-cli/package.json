@@ -17,7 +17,7 @@
     "got": "^11.8.5",
     "is-absolute": "^1.0.0",
     "jest": "^25.5.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "signal-exit": "^3.0.3",
     "verdaccio": "^4.10.0",
     "yargs": "^15.4.1"
