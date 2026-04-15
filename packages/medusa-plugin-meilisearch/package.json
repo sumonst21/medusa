@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "body-parser": "^1.19.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "medusa-core-utils": "^1.1.37",
     "meilisearch": "0.27.0"
   },
