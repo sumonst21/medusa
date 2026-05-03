@@ -32,7 +32,7 @@
     "test": "jest --passWithNoTests src"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.16.0",
     "axios-retry": "^3.1.9",
     "boxen": "^5.0.1",
     "ci-info": "^3.2.0",
@@ -40,7 +40,7 @@
     "global": "^4.4.0",
     "is-docker": "^2.2.1",
     "remove-trailing-slash": "^0.1.1",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "gitHead": "41a5425405aea5045a26def95c0dc00cf4a5a44d"
 }
